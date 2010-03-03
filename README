@@ -1,0 +1,15 @@
+There are various macros and definitions helpful during Win32 assembly
+programming using Netwide Assembler (NASM).
+
+Macros here are collected from various sources and stolen from many awesome
+coders :)
+
+Here is a short list (and incomplete):
+- Konstantin Boldyshev
+- Tomasz Grysztar
+- Bartosz Wójcik
+- ScrontSoft 
+- Sergey Chaban
+- fOSSiL
+- The Owl
+- Joergen Ibsen / Jibz
